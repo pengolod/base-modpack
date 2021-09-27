@@ -1,0 +1,15 @@
+name = "Pengolod's Base Modpack"
+author = "Pengolod"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6b0dad5550b8fc6a9f06ff26b9584f02857bcec62582ed97315eaf0477b22278"
+
+[versions]
+fabric = "0.11.7"
+minecraft = "1.17.1"
+
+[options]
+acceptable-game-versions = ["1.17"]
