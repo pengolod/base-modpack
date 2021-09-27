@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Pengolod's Base Modpack.zip"
-hash = "8a685e1a1298876b922be3651471340e0d58063abcd2fb826dbce70becf533f3"
-
-[[files]]
-file = "README.md"
-hash = "3178f48803672f1b573e9001ae4c28f0d2cb87a1f9a2dd352fc04e762e511675"
-
-[[files]]
-file = "index.html"
-hash = "2b713a9351ea25966dbf619a9c592d47bd11d9485ce4f472091d061ec6abc955"
-
-[[files]]
 file = "mods/fabric-api.toml"
 hash = "c6db1128e617baa879273db1a3152e1b30d4e4da62a64a7fa2bd62285301b408"
 metafile = true
@@ -35,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+hash = "3f7b1c6adb6a9549d23493bcde6bed81c40248d7ad0ae5763317074de740e7f0"
 metafile = true
 
 [[files]]
