@@ -1,11 +1,12 @@
 name = "Pengolod's Base Modpack"
 author = "Pengolod"
 version = "1.0.0"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9347416c7ae9bc5df9ac5fd093dcf3a6aeea73aea7fc61de297504e0d37c2309"
+hash = "29ae6f3822e96f2148068bc754f74e0d4b83108697fd69b746e61b375af679e6"
 
 [versions]
 fabric = "0.11.7"
