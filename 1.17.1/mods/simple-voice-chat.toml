@@ -12,3 +12,7 @@ hash = "718092310"
 file-id = 3598196
 project-id = 416089
 release-channel = "beta"
+
+[option]
+optional = true
+description = "Simple Voice Chat adds proximity chat and group chats to minecraft"
