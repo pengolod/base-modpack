@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitpod.yml"
-hash = "8b3dca6070852fd574efb265e7a3084ca9f19a6faefaacca972b049b8e73eaec"
+file = "mods/carpet.toml"
+hash = "dbbcfc2308ec8ec1f3c2b1fcf2495f7414bcae168ca833847e1b8a12f1f436d7"
+metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
@@ -32,11 +33,6 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.toml"
 hash = "b7ac708769978f4b8e1176ab7b5c83b2213c4edae3c5aeced6a480ce6f401535"
-metafile = true
-
-[[files]]
-file = "mods/quickcarpet.toml"
-hash = "7a782a188befcf340ee631ea7e2d1c61617c6c54d0ffdb34d422697342a3d517"
 metafile = true
 
 [[files]]
