@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/carpet.toml"
+hash = "49c6f89cc5079f6edf0ff614c4d92768dfec09ee2a17e69c38a08e7fa8abde37"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "941d6ba036b7b67777886b9e0cf2976671cb7b263ecb5f62b9635e17d263de00"
 metafile = true
@@ -33,11 +38,6 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.toml"
 hash = "b7ac708769978f4b8e1176ab7b5c83b2213c4edae3c5aeced6a480ce6f401535"
-metafile = true
-
-[[files]]
-file = "mods/quickcarpet.toml"
-hash = "fa82c4e759a5a84adb70d7022ee90f4be4d7d4156cfda20e1e5e5e8e5a9ac7bc"
 metafile = true
 
 [[files]]
