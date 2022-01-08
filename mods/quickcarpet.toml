@@ -1,13 +1,13 @@
 name = "QuickCarpet"
-filename = "quickcarpet-3.2.0.jar"
+filename = "quickcarpet-3.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dqrpBD4O/versions/3.2.0/quickcarpet-3.2.0.jar"
+url = "https://cdn.modrinth.com/data/dqrpBD4O/versions/3.3.0/quickcarpet-3.3.0.jar"
 hash-format = "sha512"
-hash = "c56dfc35611280b35f443c1029f47846a4e10b19f2f07b791a0c6dce9f6999a20925f8480e3bf013418bbb11d766b0bcdd063e7369adae0171f2aa49bfb8b922"
+hash = "588a5a93a8aee883fa60364927b06ca09667fcf90586b3f6bca25e78fc4a6860fc628f8a88ec46b695dc6b5804053649eb274bcd9c5d53e10136739cb5747093"
 
 [update]
 [update.modrinth]
 mod-id = "dqrpBD4O"
-version = "fcYr2yUf"
+version = "M2ZOZGfs"

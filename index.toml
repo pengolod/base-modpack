@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "b021631b3c9eb2df67a922cf29afbfc01616cd86b1eb2a1f489930d8a478c6b1"
+hash = "941d6ba036b7b67777886b9e0cf2976671cb7b263ecb5f62b9635e17d263de00"
 metafile = true
 
 [[files]]
@@ -22,22 +22,22 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "5a50deb77add78a3ad5f37c7ecf0cf3b4096c1359605b4082064ca978f080cdf"
+hash = "e1aea49ed8a6f2af853793ee649e69d27d872b080c4a4a30264a42022a4eabed"
 metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "3f7b1c6adb6a9549d23493bcde6bed81c40248d7ad0ae5763317074de740e7f0"
+hash = "01e8252fcaa9657249a071fb0225b030b552d276e81695c7d2e18e211120f986"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
+hash = "b7ac708769978f4b8e1176ab7b5c83b2213c4edae3c5aeced6a480ce6f401535"
 metafile = true
 
 [[files]]
 file = "mods/quickcarpet.toml"
-hash = "8a113e7532501ddd54b27b27b94862a4c09ff63cfebd4d08a3910534d68cc962"
+hash = "fa82c4e759a5a84adb70d7022ee90f4be4d7d4156cfda20e1e5e5e8e5a9ac7bc"
 metafile = true
 
 [[files]]
@@ -47,17 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "6734a05672366d09b1ae0df18c538829f038f784e6becfd5a5bb62b4a5f4046f"
+hash = "10c95a5e89f2037f7f4eca0280a0bed159285687a71d22d8a2827ae8454dd365"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "d815ffd6112df95b8448fb22732937595d2df99bbde9160a31e58944640686ca"
+hash = "a0fa129729bb5d0ed3419558d2819116cc0b9d055f5f356c165207ab1762f89d"
 metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "aadf8856e950c51967b1f213be845be01f242416dc88fb426dfd78901e5afda9"
+hash = "60fe5d7e3ff38454bcea064f5085bb2895c8ad1184d59587349896db2791c0e7"
 metafile = true
 
 [[files]]
