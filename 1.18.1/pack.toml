@@ -1,4 +1,4 @@
-name = "Pengolod's Base Modpack"
+name = "Pengolod's Base Modpack 1.18.1"
 author = "Pengolod"
 version = "1.0.0"
 pack-format = "packwiz:1.0.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "554cef373d67b533aebbc0b2fd5ee9937f897ba9a84221467dd1a24509dfa6fe"
+hash = "bbc980a5fc1d059ff6a530e3607e57d111183568e5710ad83f3f530f550fea10"
 
 [versions]
 fabric = "0.12.12"

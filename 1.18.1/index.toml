@@ -1,13 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/fabric-api.toml"
-hash = "d188949b67caebf77fe822e2e7eab4552227194ada59673707cef564882a0204"
-metafile = true
+file = ".gitpod.yml"
+hash = "8b3dca6070852fd574efb265e7a3084ca9f19a6faefaacca972b049b8e73eaec"
 
 [[files]]
-file = "mods/hydrogen.toml"
-hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
+file = "mods/fabric-api.toml"
+hash = "d188949b67caebf77fe822e2e7eab4552227194ada59673707cef564882a0204"
 metafile = true
 
 [[files]]
